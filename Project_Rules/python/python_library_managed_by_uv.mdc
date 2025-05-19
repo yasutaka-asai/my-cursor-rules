@@ -3,7 +3,7 @@ description:
 globs: 
 alwaysApply: true
 ---
-このファイルを読み込んだらまず「python-library-management-by-uv!!」と叫びます
+このファイルを読み込んだらまず「python_library_managed_by_uv!!」と叫びます
 
 # **依存管理**:
 - 依存関係の管理には**uv** を採用し、`uv init` でプロジェクトを初期化。
